@@ -1,0 +1,42 @@
+
+/* font-family: 'Monofett', cursive;
+font-family: 'Sigmar One', cursive; */
+#mainContainer{
+    margin: 20px;
+    background-color: white;
+    width: 600px;
+    height: 530px;
+    border-style: double;
+    border-color: gold;
+    border-width: 30px;
+}
+
+.scoreboard1{
+    font-family: 'Monofett', cursive;
+    border-style: dotted;
+    border-color: lightgreen;
+    border-width: 5px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.scoreboard2{
+    font-family: 'Sigmar One', cursive;
+    border-style: groove;
+    border-color: lightgrey;
+    border-width: 2px;
+    margin: 10px;
+    padding: 50px 5px 50px 5px;
+}
+
+#winningNum {
+    padding: 15px;
+}
+
+#playerMessage { 
+    font-family: 'Monofett', cursive;
+    color: green;
+    margin: 10px;
+    padding: 5px;
+    font-size: 20px;
+}
