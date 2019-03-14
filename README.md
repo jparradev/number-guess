@@ -1,6 +1,6 @@
 # Number Guessing Game aka Crystals In Space
 
-## How It Works
+### How It Works
 
 This is a simple number guessing game powered by JavaScript.
 
@@ -17,7 +17,7 @@ The user wins when the winning number is matched, and loses when the winning num
 
 <br>
 
-## Link to the Game
+### Link to the Game
 
 [Crystals in Space](https://jparradev.github.io/number-guess/)
 
